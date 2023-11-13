@@ -28,7 +28,7 @@
    
 <pre>
 Create a virtual environment (example using venv)
-python -m venv env
+python -m venv envv
 
 Activate the virtual environment
 source env/bin/activate   # For Unix or Linux

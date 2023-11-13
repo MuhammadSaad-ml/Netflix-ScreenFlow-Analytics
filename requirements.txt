@@ -6,5 +6,6 @@ Stats-model
 Plotly
 Scikit-learn
 keras
-python
+
+
 
