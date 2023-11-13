@@ -2,9 +2,9 @@
 
 # Netflix ScreenFlow Analytics
 
-##  <a href="https://github.com/MuhammadSaad-ml/Covid-19-Vaccine-Tracker/blame/main/Problem%20Statement%20Project.docx">Problem Statement</a> 
+##  <a href="https://github.com/MuhammadSaad-ml/Netflix-ScreenFlow-Analytics/blob/main/Problem%20Statement.docx">Problem Statement</a> 
 <img src="https://i.imgur.com/JKxAaTY.png">
- <img src="">
+ 
 
 
 
@@ -22,7 +22,7 @@
 ## Steps
 **1.Clone the repository:**
 <pre>
-git clone https://github.com/MuhammadSaad-ml/Covid-19-Vaccine-Tracker
+[git clone https://github.com/MuhammadSaad-ml/Covid-19-Vaccine-Tracker](https://github.com/MuhammadSaad-ml/Netflix-ScreenFlow-Analytics)
 </pre>
 **2.Create a virtual environment using `venv` or `conda`**
    
@@ -60,7 +60,7 @@ Access the interactive Tableau dashboard on Tableau Public using the following l
 
 To access the interactive dashboard, use the provided Tableau Public link. Ensure you have a compatible web browser and a stable internet connection.
 
-**Project Structure:**
+## Project Structure:
 ```
 data/: Contains the raw datasets.
 
