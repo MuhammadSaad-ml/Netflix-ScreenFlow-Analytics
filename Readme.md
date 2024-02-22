@@ -1,9 +1,10 @@
 <img src="https://img.shields.io/badge/Data Show-yellow"><img src="https://img.shields.io/badge/Build_With-Tableau-silver"><img src="https://img.shields.io/badge/Python-indigo"><img src="https://img.shields.io/badge/Netflix ScreenFlow Analytics-beige"><img src="https://img.shields.io/badge/VsCode-teal"><img src="https://img.shields.io/badge/Data Analysis-magenta"><img src="https://img.shields.io/badge/Dashboard-gold"><img src="https://img.shields.io/badge/Data Cleaning-blue"><img src="https://img.shields.io/badge/Big Data-green"><img src="https://img.shields.io/badge/Problem Statement-purple"><img src="https://img.shields.io/badge/Data  Visualization-brown"><img src="https://img.shields.io/badge/Data Manipulation-orange">
 
 # Netflix ScreenFlow Analytics
+[![Example](https://i.imgur.com/JKxAaTY.png)](https://www.youtube.com/watch?v=Mo5al_1y57Y)
 
 ##  <a href="https://github.com/MuhammadSaad-ml/Netflix-ScreenFlow-Analytics/blob/main/Problem%20Statement.docx">Problem Statement</a> 
-<img src="https://i.imgur.com/JKxAaTY.png">
+<img src="">
  
 
 
